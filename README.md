@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm DRAG 🚀</h1>
+<h1 align="center">Hey 👋 I'm ĐJ 🚀</h1>
 
 <h3 align="center">
 Creative Mobile Engineer • AI Integrator • Scalable Discord Architect
@@ -10,8 +10,8 @@ and engineer AI-powered automation experiences.
 </p>
 
 <p align="center">
-  <a href="mailto:ledragmaar@gmail.com"><strong>📩 Hire Me</strong></a> •
-  <a href="https://discord.gg/dPpe3QxXbP"><strong>💬 Discord</strong></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=iiknowdj@proton.me"><strong>📩 Hire Me</strong></a> •
+  <a href="https://www.instagram.com/iiknowdj/"><strong>💬 Instgram</strong></a>
 </p>
 
 ---
@@ -106,7 +106,7 @@ If you're looking for:
 
 Let’s build something powerful.
 
-📩 Email: **ledragmaar@gmail.com**  
+📩 Email: **iiknowdj@proton.me**  
 💬 Discord: **https://discord.gg/dPpe3QxXbP**
 
 ---
